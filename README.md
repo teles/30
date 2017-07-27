@@ -13,16 +13,16 @@
 
 ## Guias: características que eu quero ter.
 
-* [ ] - Ter um nível de energia que me permita desenvolver minhas atividades;
-* [ ] - Ter um equilíbrio psicológico que me permita tomar boas decisões;
-* [ ] - Executar um trabalho reconhecido como de qualidade e adequado as expectativas direcionadas à mim;
-* [ ] - Ser um bom companheiro para minha companheira;
-* [ ] - Ser um bom amigo e bom filho;
-* [ ] - Não depender do meu empregador;
-* [ ] - Preservar uma reserva financeira;
-* [ ] - Me desenvolver intelectualmente;
-* [ ] - Ter um mínimo de auto estima;
-* [ ] - Valorizar o ócio e não menosprezar a necessidade de sentir prazer;
+* Ter um nível de energia que me permita desenvolver minhas atividades;
+* Ter um equilíbrio psicológico que me permita tomar boas decisões;
+* Executar um trabalho reconhecido como de qualidade e adequado as expectativas direcionadas à mim;
+* Ser um bom companheiro para minha companheira;
+* Ser um bom amigo e bom filho;
+* Não depender do meu empregador;
+* Preservar uma reserva financeira;
+* Me desenvolver intelectualmente;
+* Ter um mínimo de auto estima;
+* Valorizar o ócio e não menosprezar a necessidade de sentir prazer;
 
 ## Indícios: confirmações de que estou no caminho certo.
 
@@ -42,7 +42,7 @@
 9. Priorizo pagamentos à vista;
 10. Na companhia de pessoas queridas dou mais atenção a elas do que ao telefone e outras distrações;
 11. Mantenho projetos pessoais pequenos e objetivos no meu portfólio;
-12. No trabalho faço evito trabalhar em projetos pessoais;
+12. No trabalho evito trabalhar em projetos pessoais;
 13. Me organizo para terminar o trabalho do dia no local de trabalho, não em casa;
 14. Evito deixar para semana que vem tarefas burocráticas/chatas;
 15. Participo ativamente de uma comunidade de compartilhamento de objetivos;
