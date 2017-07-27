@@ -5,12 +5,13 @@
 <img src="https://i.ytimg.com/vi/Sk_K8wJcwCg/hqdefault.jpg" align="left" height="220">
 
 ## Tabela de conteúdos: 
-* [Guias: características que eu quero ter.](#guias-características-que-eu-quero-ter)
-* [Indícios: confirmações de que estou no caminho certo.](#indícios-confirmações-de-que-estou-no-caminho-certo)
-* [Indícios imprescindveis.](#indícios-imprescindveis)
-* [Indícios desejáveis.](#indícios-desejáveis)
-* [Indícios bônus.](#indícios-bônus)
-* [Perguntas comuns.](#perguntas-comuns)
+
+[Guias: características que eu quero ter.](#guias-características-que-eu-quero-ter)
+[Indícios: confirmações de que estou no caminho certo.](#indícios-confirmações-de-que-estou-no-caminho-certo)
+[Indícios imprescindveis.](#indícios-imprescindveis)
+[Indícios desejáveis.](#indícios-desejáveis)
+[Indícios bônus.](#indícios-bônus)
+[Perguntas comuns.](#perguntas-comuns)
 
 ## Guias: características que eu quero ter.
 
