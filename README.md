@@ -6,7 +6,7 @@
 
 * [Guias: características que eu quero ter.](#guias-características-que-eu-quero-ter)
 * [Indícios: confirmações de que estou no caminho certo.](#indícios-confirmações-de-que-estou-no-caminho-certo)
-* [Indícios imprescindveis.](#indícios-imprescindíveis)
+* [Indícios imprescindíveis.](#indícios-imprescindíveis)
 * [Indícios desejáveis.](#indícios-desejáveis)
 * [Indícios bônus.](#indícios-bônus)
 * [Perguntas comuns.](#perguntas-comuns)
