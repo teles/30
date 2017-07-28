@@ -6,7 +6,7 @@
 
 * [Guias: características que eu quero ter.](#guias-características-que-eu-quero-ter)
 * [Indícios: confirmações de que estou no caminho certo.](#indícios-confirmações-de-que-estou-no-caminho-certo)
-* [Indícios imprescindveis.](#indícios-imprescindveis)
+* [Indícios imprescindveis.](#indícios-imprescindíveis)
 * [Indícios desejáveis.](#indícios-desejáveis)
 * [Indícios bônus.](#indícios-bônus)
 * [Perguntas comuns.](#perguntas-comuns)
@@ -26,7 +26,7 @@
 
 ## Indícios: confirmações de que estou no caminho certo.
 
-### Indícios imprescindveis.
+### Indícios imprescindíveis.
 
 1. Sou capaz de correr 3km de uma vez sem desistir;
 2. Termino +80% das tarefas que começo e tem critério de finalização claro;
